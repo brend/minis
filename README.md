@@ -1,4 +1,4 @@
-# Minis
+# 🚗 Minis
 Small projects, they're really tiny.
 
 ## Philosophy

@@ -7,7 +7,11 @@ To actually finish a hobby project for once, each of these Minis must only obey 
 
 ## Accomplished Minis
 
-None so far. This is going great!
+### pew pew pew
+
+A [space simulation](pewpewpew) with colorful UFOs that move in crazy ways.
+
+<img src="screenshots/pewpewpew.png">
 
 ## Ideas for future Minis
 

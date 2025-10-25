@@ -11,7 +11,7 @@ To actually finish a hobby project for once, each of these Minis must only obey 
 
 A [space simulation](pewpewpew) with colorful UFOs that move in crazy ways.
 
-<img src="screenshots/pewpewpew.png">
+<img src="screenshots/pewpewpew.png" style="width: 400px; height: auto;">
 
 ## Ideas for future Minis
 
